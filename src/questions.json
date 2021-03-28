@@ -1,0 +1,91 @@
+[
+    {
+        "question": "Full form of JS is ____________?",
+        "optionA": "JavaScript",
+        "optionB": "Java Servelet",
+        "optionC": "Java Server",
+        "optionD": "JSON Script",
+        "answer": "JavaScript"
+    },
+
+    {
+        "question": "What does JavaScript supports?",
+        "optionA": "Web Scripting",
+        "optionB": "Object Oriented Programming",
+        "optionC": "Game Programming",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+
+    {
+        "question": "Which of these are introduced in ES6?",
+        "optionA": "var",
+        "optionB": "for loop",
+        "optionC": "let and const",
+        "optionD": "map()",
+        "answer": "let and const"
+    },
+
+    {
+        "question": "Function calling itself is called as______________?",
+        "optionA": "Recursion",
+        "optionB": "Normal function call",
+        "optionC": "Function defination",
+        "optionD": "Constructor",
+        "answer": "Recursion"
+    },
+
+    {
+        "question": "Lambda concept is a part of____________?",
+        "optionA": "OOP ",
+        "optionB": "Functional Programming",
+        "optionC": "Arrow function",
+        "optionD": "Looping",
+        "answer": "Functional Programming"
+    },
+
+    {
+        "question": "What is Filter used for?",
+        "optionA": "Getting the elements of object which are satisfying any perticular condition.",
+        "optionB": "Remove all array elements",
+        "optionC": "Find bugs of the code",
+        "optionD": "It is used as an option of looping.",
+        "answer": "Getting the elements of object which are satisfying any perticular condition."
+    },
+
+    {
+        "question": "var causes problem of___________?",
+        "optionA": "datatype of variable",
+        "optionB": "Does not create any problem",
+        "optionC": "hoisting",
+        "optionD": "both option one and three",
+        "answer": "hoisting"
+    },
+
+    {
+        "question": "ReactJS is a library of__________?",
+        "optionA": "Java",
+        "optionB": "JavaScript",
+        "optionC": "Python",
+        "optionD": "AngularJS",
+        "answer": "JavaScript"
+    },
+
+    {
+        "question": "What is the use of spread operator?",
+        "optionA": "Working on same object instead of creating it's copy to optimize memory.",
+        "optionB": "Making a copy of the selected object",
+        "optionC": "Splitting an object into different variables.",
+        "optionD": "None of the above",
+        "answer": "Making a copy of the selected object"
+    },
+
+    {
+        "question": "ReactJs was introduced in___________?",
+        "optionA": "2010",
+        "optionB": "2011",
+        "optionC": "2012",
+        "optionD": "2013",
+        "answer": "2013"
+    }
+]
